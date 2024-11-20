@@ -27,7 +27,8 @@
 <hr>
 
 <h1>🎰 프로젝트 목록</h1>
-🏡   <a href="https://github.com/minsu0604/minsu_portfolio">포트폴리오 페이지</a><strong>저의 포트폴리오 페이지로 이동합니다.</strong>
+🏡   <a href="https://github.com/minsu0604/minsu_portfolio">포트폴리오 페이지</a>
+<strong>저의 포트폴리오 페이지로 이동합니다.</strong>
 <br>
 1️⃣   <a href="https://github.com/minsu0604/minsu_spring_project">영화 커뮤니티 사이트</a><p> : 스프링 부트를 이용하여 영화게시판 만들기</p>
 <br>
