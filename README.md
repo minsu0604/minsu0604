@@ -33,8 +33,12 @@
 <br>
 <br>
 
-1️⃣   <a href="https://github.com/minsu0604/minsu_spring_project">영화 커뮤니티 사이트</a><p> : 스프링 부트를 이용하여 영화게시판 만들기</p>
+1️⃣   <a href="https://github.com/minsu0604/minsu_spring_project">영화 커뮤니티 사이트</a>
 <br>
+<strong>스프링 부트를 이용하여 영화게시판 만들기</strong>
+<br>
+<br>
+
 2️⃣   <a href="https://github.com/minsu0604/minsu_spring-kotlin_project">펀딩 소셜 커머스 앱</a><p> : 스프링 부트와 안드로이드를 연동한 소셜 커머스 앱</p>
 <br>
 3️⃣   <a href="https://github.com/minsu0604/minsu_spring-kotlin-react_project">비품 관리 시스템</a><p> : 리액트와 스프링 부트를 사용한 비품 관리 웹/앱 애플리케이션</p>
