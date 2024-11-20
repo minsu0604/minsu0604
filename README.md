@@ -39,6 +39,6 @@
 
 <h1>🎢 레포지토리 기술 분포도</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsu0604)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <hr>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
